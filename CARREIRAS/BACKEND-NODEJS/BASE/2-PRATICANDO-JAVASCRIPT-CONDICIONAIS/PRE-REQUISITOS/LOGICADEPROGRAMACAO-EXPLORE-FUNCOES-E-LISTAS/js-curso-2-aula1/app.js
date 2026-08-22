@@ -14,7 +14,6 @@ function mensagemInicial(){
 
 mensagemInicial()
 
-
 function verificarChute(){
     let chute = document.querySelector('input').value
     let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
